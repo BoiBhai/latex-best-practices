@@ -1,0 +1,18 @@
+\newcommand {\Pr} {\mathcal{P}}
+\newcommand {\f} {\mathcal{f}} % density function
+\newcommand {\F} {\mathcal{F}}
+\newcommand {\M} {\mathbb{\M}}
+\newcommand {\E} {\mathbb{E}}
+\newcommand {\V} {\mathbb{V}}
+\newcommand {\cov} {\mathrm{Cov}}
+\newcommand {\cor} {\mathcal{Cor}}
+\newcommand {\mom} {\mathbf{µ}} % needs to be changed
+\newcommand {\rv}[1] {\mathrm{#1}}
+\newcommand {\rvec}[1] {\underset{\sim}{\mathrm{#1}}}
+\newcommand {\mean}[1] {\overline{#1}}
+\newcommand {\indicator} {\mathbb{I}}
+\newcommand {\est}[1] {\widehat{#1}}
+\newcommand {\given} {\; \mid \;}
+\newcommand {\follows} {\sim}
+\newcommand {\iid} {\mathrm{iid}}
+\newcommand {\followsiid} {\overset{\mathrm{iid}}{\sim}}
